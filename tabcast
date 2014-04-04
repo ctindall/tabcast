@@ -1,0 +1,15 @@
+#!/usr/bin/ruby
+require 'rss'
+require 'open-uri'
+
+feed = RSS::Parser.parse(ARGV[0])
+
+feed.items.each do |i|
+	print i.pubDate.strftime('%F@%R') + "\t"
+	
+	print i.title.chomp.tr(' ', '_') + "\t"
+
+	print i.enclosure.url + "\t"
+
+	print "\n"
+end
