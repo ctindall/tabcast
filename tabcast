@@ -1,15 +1,47 @@
 #!/usr/bin/ruby
 require 'rss'
 require 'open-uri'
+require 'optparse'
 
-feed = RSS::Parser.parse(ARGV[0])
+class TabCastFeed
+attr_reader :url, :feed
 
-feed.items.each do |i|
-	print i.pubDate.strftime('%F@%R') + "\t"
-	
-	print i.title.chomp.tr(' ', '_') + "\t"
+	def initialize(url)
+		@url = url
+		@feed = RSS::Parser.parse(url)
+	end
 
-	print i.enclosure.url + "\t"
+	def tabulate
+		@feed.items.each do |i|
+			print i.pubDate.strftime('%F@%R') + "\t"
+			print i.title.chomp.tr(' ', '_') + "\t"
+			print i.enclosure.url + "\t"
+			print "\n"
+		end
+	end
+end
 
-	print "\n"
+options = {}
+
+optparse = OptionParser.new do|opts|
+	#set default
+	options[:format] = "%DATE\\t%TITLE\\t%ENCLOSURE_URL"
+
+	opts.banner = "Usage: tabcast [-f FORMATSTRING] file1 file2 ...\n(FORMATSTRING is assumed to be '#{options[:format]}' unless specified"
+
+	opts.on( '-f', '--format FORMATSTRING', 'Output lines with FORMATSTRING' ) do |format|
+		options[:format] = format
+	end
+
+	opts.on( '-h', '--help', 'Show usage.' ) do
+		puts opts
+		exit
+	end
+end
+
+optparse.parse!
+
+ARGV.each do |url|
+	feed = TabCastFeed.new(url)
+	feed.tabulate
 end
