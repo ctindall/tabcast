@@ -14,19 +14,21 @@ Liquid::Template.register_filter(TextFilter)
 class TabCastFeed
 attr_reader :url, :feed, :template
 
-
 	def initialize(url, format)
 		@url = url
-		@items = RSS::Parser.parse(url).items
+		@items = RSS::Parser.parse(url, false).items
 		@template = Liquid::Template.parse(unescape(format))
 	end
 
 	def formatted
 		string = ""
 		@items.each do |i|
-			string += @template.render( 	'utime' => i.pubDate.strftime('%s'),
-					       		'title' => i.title.chomp,
-							'enclosure_url' => i.enclosure.url 	)
+			vars = Hash.new
+			vars['utime'] = i.pubDate.strftime('%s') if i.pubDate
+			vars['title'] = i.title.chomp if i.title
+			vars['enclosure_url'] = i.enclosure.url if i.enclosure && i.enclosure.url
+
+			string += @template.render(vars)
 		end
 		string
 	end
