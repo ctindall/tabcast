@@ -74,6 +74,8 @@ The following variables are available to the template:
 			
 The following filters are available to the template:
 `whitespace_to_underscores` does exactly what it sounds like.
+`md5` `and sha1` likewise.
+`urlencode` is pretty self-explanatory too.
 	
 In addition, the following sequences are escaped to the equivalent literal characters:" +
 '
