@@ -88,6 +88,10 @@ In addition, the following sequences are escaped to the equivalent literal chara
 		options[:format] = format
 	end
 
+	opts.on( '-d', '--delimiter DELIMITER', 'Use some other than tabs as the field delimiter' ) do |delimiter|
+		options[:format] = "{{utime}}#{delimiter}{{title | spaces_to_underscores}}#{delimiter}{{enclosure_url}}" + '\n';
+	end
+
 	opts.on( '-h', '--help', 'Show usage.' ) do
 		puts opts
 		exit
