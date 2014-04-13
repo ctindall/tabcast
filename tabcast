@@ -42,6 +42,8 @@ attr_reader :url, :feed, :template
 			vars['utime'] = i.pubDate.strftime('%s') if i.pubDate
 			vars['title'] = i.title.chomp if i.title
 			vars['enclosure_url'] = i.enclosure.url if i.enclosure && i.enclosure.url
+			vars['itunes_author'] = i.itunes_author if i.itunes_author
+			vars['author'] = i.author if i.author
 
 			string += @template.render(vars)
 		end
@@ -68,9 +70,10 @@ optparse = OptionParser.new do|opts|
 FORMATSTRING is a Liquid template (http://liquidmarkup.org/) that will be rendered once for each feed item.
 			
 The following variables are available to the template:
-{{ utime }}            -> The pubDate time of the feed item as a Unix timestamp.
-{{ title }}            -> The title of the feed item with new lines removed.
-{{ enclosure_url}}     -> The full URL of the feed item's
+{{ utime }}           			-> The pubDate time of the feed item as a Unix timestamp.
+{{ title }}           			-> The title of the feed item with new lines removed.
+{{ enclosure_url}}     			-> The full URL of the feed item's
+{{ author }}, {{ itunes_author }}	-> Just what it says on the tin.
 			
 The following filters are available to the template:
 `whitespace_to_underscores` does exactly what it sounds like.
