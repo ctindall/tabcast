@@ -1,6 +1,3 @@
-module Tabcast
-VERSION = "0.1"
-
 	module TextFilter
 		def spaces_to_underscores(input)
 			input.gsub(/\s/, '_')
@@ -19,6 +16,7 @@ VERSION = "0.1"
 		end
 	end
 
+module Tabcast
 	Liquid::Template.register_filter(TextFilter)
 
 	class TabCastFeed
@@ -39,6 +37,7 @@ VERSION = "0.1"
 				vars['enclosure_url'] = i.enclosure.url if i.enclosure && i.enclosure.url
 				vars['itunes_author'] = i.itunes_author if i.itunes_author
 				vars['author'] = i.author if i.author
+				vars['guid'] = i.guid if i.guid
 
 				string += @template.render(vars)
 			end
