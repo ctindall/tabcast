@@ -21,6 +21,7 @@ module Tabcast
 
 	class TabCastFeed
 	attr_reader :url, :feed, :template
+	attr_accessor :prefix
 	
 		def initialize(url, format)
 			@url = url
@@ -29,7 +30,7 @@ module Tabcast
 		end
 	
 		def formatted
-			string = ""
+			string = unescape(@prefix)
 			@items.each do |i|
 				vars = Hash.new
 				vars['utime'] = i.pubDate.strftime('%s') if i.pubDate

@@ -13,6 +13,7 @@ options = {}
 optparse = OptionParser.new do|opts|
 	#set default
 	options[:format] = '{{utime}}\t{{title | spaces_to_underscores}}\t{{enclosure_url}}\n'
+	options[:prefix] = ""
 
 	opts.banner = "Usage: tabcast [-f FORMATSTRING] file1 file2 ...\n(FORMATSTRING is assumed to be '#{options[:format]}' unless specified)
 	
@@ -45,15 +46,22 @@ In addition, the following sequences are escaped to the equivalent literal chara
 		options[:format] = "{{utime}}#{delimiter}{{title | spaces_to_underscores}}#{delimiter}{{enclosure_url}}" + '\n';
 	end
 
+	opts.on( '-p' '--prefix PREFIX', 'Print this string once, before the list of items') do |prefix|
+		options[:prefix] = prefix
+	end
+
 	opts.on( '-h', '--help', 'Show usage.' ) do
 		puts opts
 		exit
 	end
+
+
 end
 
 optparse.parse!
 
 ARGV.each do |url|
 	feed = Tabcast::TabCastFeed.new(url, options[:format])
+	feed.prefix = options[:prefix]
 	puts feed.formatted
 end
