@@ -21,15 +21,18 @@ module Tabcast
 
 	class TabCastFeed
 	attr_reader :url, :feed, :template
+	attr_accessor :prefix, :suffix
 	
 		def initialize(url, format)
 			@url = url
 			@items = RSS::Parser.parse(url, false).items
 			@template = Liquid::Template.parse(unescape(format))
+			#@prefix = "" unless @prefix
+			#@suffix = "" unless @suffix
 		end
 	
 		def formatted
-			string = ""
+			string = unescape(@prefix)
 			@items.each do |i|
 				vars = Hash.new
 				vars['utime'] = i.pubDate.strftime('%s') if i.pubDate
@@ -41,6 +44,7 @@ module Tabcast
 
 				string += @template.render(vars)
 			end
+			string += unescape(@suffix)
 			string
 		end
 
