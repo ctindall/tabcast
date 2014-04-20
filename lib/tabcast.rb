@@ -21,7 +21,7 @@ module Tabcast
 
 	class TabCastFeed
 	attr_reader :url, :feed, :template
-	attr_accessor :prefix
+	attr_accessor :prefix, :suffix
 	
 		def initialize(url, format)
 			@url = url
@@ -42,7 +42,7 @@ module Tabcast
 
 				string += @template.render(vars)
 			end
-			string
+			string + unescape(@suffix)
 		end
 
 		private

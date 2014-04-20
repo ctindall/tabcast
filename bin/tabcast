@@ -15,7 +15,7 @@ optparse = OptionParser.new do|opts|
 	options[:format] = '{{utime}}\t{{title | spaces_to_underscores}}\t{{enclosure_url}}\n'
 	options[:prefix] = ""
 
-	opts.banner = "Usage: tabcast [-f FORMATSTRING] file1 file2 ...\n(FORMATSTRING is assumed to be '#{options[:format]}' unless specified)
+	opts.banner = "Usage: tabcast [-f FORMATSTRING] [-p PREFIX] [-s SUFFIX] file1 file2 ...\n(FORMATSTRING is assumed to be '#{options[:format]}' unless specified)
 	
 FORMATSTRING is a Liquid template (http://liquidmarkup.org/) that will be rendered once for each feed item.
 			
@@ -49,6 +49,10 @@ In addition, the following sequences are escaped to the equivalent literal chara
 	opts.on( '-p' '--prefix PREFIX', 'Print this string once, before the list of items') do |prefix|
 		options[:prefix] = prefix
 	end
+	
+	opts.on( '-s' '--suffix SUFFIX', 'Print this string once, after the list of items') do |suffix|
+		options[:suffix] = suffix
+	end
 
 	opts.on( '-h', '--help', 'Show usage.' ) do
 		puts opts
@@ -63,5 +67,6 @@ optparse.parse!
 ARGV.each do |url|
 	feed = Tabcast::TabCastFeed.new(url, options[:format])
 	feed.prefix = options[:prefix]
+	feed.suffix = options[:suffix]
 	puts feed.formatted
 end
