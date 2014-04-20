@@ -51,10 +51,14 @@ In addition, the following sequences are escaped to the equivalent literal chara
 		options[:prefix] = prefix
 	end
 	
-	opts.on( '-s', '--suffixi SUFFIX', 'Print this string once, after the list of items') do |suffix|
+	opts.on( '-s', '--suffix SUFFIX', 'Print this string once, after the list of items') do |suffix|
 		options[:suffix] = suffix
 	end
 
+	opts.on( '-k', '--killfile KILLFILE', 'Path to a file containing killed enclosure URLs.') do |killfile|
+		options[:killfile] = killfile
+	end
+	
 	opts.on( '-h', '--help', 'Show usage.' ) do
 		puts opts
 		exit
@@ -69,5 +73,6 @@ ARGV.each do |url|
 	feed = Tabcast::TabCastFeed.new(url, options[:format])
 	feed.prefix = options[:prefix]
 	feed.suffix = options[:suffix]
+	feed.killfile = options[:killfile] if options[:killfile]
 	puts feed.formatted
 end
