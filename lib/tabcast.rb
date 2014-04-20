@@ -27,6 +27,8 @@ module Tabcast
 			@url = url
 			@items = RSS::Parser.parse(url, false).items
 			@template = Liquid::Template.parse(unescape(format))
+			#@prefix = "" unless @prefix
+			#@suffix = "" unless @suffix
 		end
 	
 		def formatted
@@ -42,7 +44,8 @@ module Tabcast
 
 				string += @template.render(vars)
 			end
-			string + unescape(@suffix)
+			string += unescape(@suffix)
+			string
 		end
 
 		private
