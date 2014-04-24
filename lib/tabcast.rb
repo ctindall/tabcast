@@ -26,23 +26,51 @@ module Tabcast
 	
 		def initialize(url, format)
 			@url = url
-			@items = RSS::Parser.parse(url, false).items
+			@feed  = RSS::Parser.parse(url, false)
 			@template = Liquid::Template.parse(unescape(format))
 			@killlist = []
 			@guidkilllist = []
 		end
 	
 		def formatted
+		vars = {}
+
+		vars['channel_title'] 		= @feed.channel.title 		if @feed.channel.title
+		vars['channel_description'] 	= @feed.channel.description 	if @feed.channel.description
+		vars['channel_link'] 		= @feed.channel.link 		if @feed.channel.link
+
 			string = unescape(@prefix)
-			@items.each do |i|
+			@feed.items.each do |i|
 				unless ( @killlist.include? i.enclosure.url ) or ( @guidkilllist.include? i.guid.to_s )
-					vars = Hash.new
-					vars['utime'] = i.pubDate.strftime('%s') if i.pubDate
-					vars['title'] = i.title.chomp if i.title
-					vars['enclosure_url'] = i.enclosure.url if i.enclosure && i.enclosure.url
-					vars['itunes_author'] = i.itunes_author if i.itunes_author
-					vars['author'] = i.author if i.author
-					vars['guid'] = i.guid.to_s if i.guid
+					if i.pubDate
+						vars['utime'] = i.pubDate.strftime('%s') 
+					else
+						vars['utime'] = nil
+					end
+
+					if i.title
+						vars['title'] = i.title.chomp
+					else
+						vars['title'] = nil
+					end
+					
+					if i.enclosure && i.enclosure.url
+						vars['enclosure_url'] = i.enclosure.url
+					else
+						vars['enclosure_url'] = nil
+					end
+					
+					if i.itunes_author
+						vars['itunes_author'] = i.itunes_author if i.itunes_author
+					else
+						vars['itunes_author'] = nil
+					end
+
+					if i.author
+						vars['author'] = i.author
+					else
+						vars['guid'] = nil
+					end
 				
 					string += @template.render(vars)
 				end
