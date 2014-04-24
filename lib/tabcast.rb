@@ -21,8 +21,8 @@ module Tabcast
 	Liquid::Template.register_filter(TextFilter)
 
 	class TabCastFeed
-	attr_reader :url, :feed, :template
-	attr_accessor :prefix, :suffix
+	attr_reader :url, :feed, :template, :prefix, :suffix
+	
 	
 		def initialize(url, format)
 			@url = url
@@ -30,6 +30,14 @@ module Tabcast
 			@template = Liquid::Template.parse(unescape(format))
 			@killlist = []
 			@guidkilllist = []
+		end
+
+		def prefix=(prefixstring)
+			@prefix = Liquid::Template.parse(unescape(prefixstring))
+		end
+
+		def suffix= (suffixstring)
+			@suffix = Liquid::Template.parse(unescape(suffixstring))
 		end
 	
 		def formatted
@@ -39,7 +47,8 @@ module Tabcast
 		vars['channel_description'] 	= @feed.channel.description 	if @feed.channel.description
 		vars['channel_link'] 		= @feed.channel.link 		if @feed.channel.link
 
-			string = unescape(@prefix)
+		string = ""
+		string += @prefix.render(vars) 
 			@feed.items.each do |i|
 				unless ( @killlist.include? i.enclosure.url ) or ( @guidkilllist.include? i.guid.to_s )
 					if i.pubDate
@@ -75,7 +84,7 @@ module Tabcast
 					string += @template.render(vars)
 				end
 			end
-			string += unescape(@suffix)
+			string += @suffix.render(vars)
 			string
 		end
 
