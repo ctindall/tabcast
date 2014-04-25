@@ -4,8 +4,7 @@ a tool to turn, ugly messy podcast XML into lines of tab-seperated values that a
 
 ##Installation:
 
-1. `gem install liquid`
-2. copy the "tabcast" file from this repo into your $PATH
+`gem install tabcast`
 
 ##Usage:
 
@@ -21,3 +20,9 @@ templating and renders the specified markup for each item in the feed. For examp
 Note that the default output is equivalent to using:
 
  `-f "{{utime}}\t{{title | spaces_to_underscores}}\t{{enclosure_url}}\n"`
+
+`--prefix` and `--suffix` allow you to specify strings to be printed before and after the list of templated feed items. This is useful for, as an example, building up an HTML list of the feed:
+
+`tabcast -f "<li><a href='{{ enclosure_url }}'>{{ title }}</a></li>\n" --prefix "<ul>" --suffix "</ul>" <feed url>`
+
+
