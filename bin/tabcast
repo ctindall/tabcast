@@ -80,4 +80,5 @@ ARGV.each do |url|
 	feed.killfile = options[:killfile] if options[:killfile]
 	feed.guidkillfile = options[:guidkillfile] if options[:guidkillfile]
 	print feed.formatted
+	#print feed.feed.channel.methods
 end
