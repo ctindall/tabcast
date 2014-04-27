@@ -46,6 +46,7 @@ module Tabcast
 		vars['channel_title'] 		= @feed.channel.title 		if @feed.channel.title
 		vars['channel_description'] 	= @feed.channel.description 	if @feed.channel.description
 		vars['channel_link'] 		= @feed.channel.link 		if @feed.channel.link
+		vars['channel_langauge']	= @feed.channel.langauge 	if @feed.channel.langauge
 
 		string = ""
 		string += @prefix.render(vars) 
