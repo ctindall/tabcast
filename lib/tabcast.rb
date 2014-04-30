@@ -1,23 +1,24 @@
-	module TextFilter
-		def spaces_to_underscores(input)
-			input.gsub(/\s/, '_')
-		end
-	
-		def urlencode(input)
-			CGI::escape(input)
-		end
-	
-		def md5(input)
-			Digest::MD5.hexdigest(input)
-		end
-	
-		def sha1(input)
-			Digest::SHA1.hexdigest(input)
-		end
+require 'liquid'
+
+module TextFilter
+	def spaces_to_underscores(input)
+		input.gsub(/\s/, '_')
 	end
+	
+	def urlencode(input)
+		CGI::escape(input)
+	end
+	
+	def md5(input)	
+		Digest::MD5.hexdigest(input)
+	end
+	
+	def sha1(input)
+		Digest::SHA1.hexdigest(input)
+	end
+end
 
 module Tabcast
-	require 'open-uri'
 	Liquid::Template.register_filter(TextFilter)
 
 	class TabCastFeed

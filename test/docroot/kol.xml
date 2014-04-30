@@ -1,0 +1,2297 @@
+HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Wed, 30 Apr 2014 02:24:11 GMT
+Content-Type: application/xml; charset=ISO-8859-1
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+<title>The Kingdom of Loathing Podcast</title>
+<link>http://www.kingdomofloathing.com/</link>
+<language>en-us</language>
+<copyright>&#xA9; 2011 Asymmetric Publications, LLC</copyright>
+<itunes:subtitle></itunes:subtitle>
+<itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:summary>The twice-weekly podcast by the folks at The Kingdom of Loathing</itunes:summary>
+<description>The twice-weekly podcast by the folks at The Kingdom of Loathing</description>
+<itunes:owner>
+<itunes:name>Zack Johnson</itunes:name>
+<itunes:email>zjohnson@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:category text="Games &amp; Hobbies">
+<itunes:category text="Video Games" />
+</itunes:category>
+
+
+<item>
+<title>KoL Podcast 04/24/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 24, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140424.mp3" length="53485087" type="audio/mpeg" />
+<pubDate>Fri, 24 Apr 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/21/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 21, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140421.mp3" length="62097345" type="audio/mpeg" />
+<pubDate>Tue, 21 Apr 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/17/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 17, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140417.mp3" length="53774733" type="audio/mpeg" />
+<pubDate>Fri, 17 Apr 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/10/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 10, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140410.mp3" length="55833286" type="audio/mpeg" />
+<pubDate>Fri, 10 Apr 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/07/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 07, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140407.mp3" length="67146396" type="audio/mpeg" />
+<pubDate>Tue, 07 Apr 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/03/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 03, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140403.mp3" length="62040607" type="audio/mpeg" />
+<pubDate>Fri, 03 Apr 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/01/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 01, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140401.mp3" length="58683977" type="audio/mpeg" />
+<pubDate>Tue, 01 Apr 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/27/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 27, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140327.mp3" length="59625952" type="audio/mpeg" />
+<pubDate>Fri, 27 Mar 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/13/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 13, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140313.mp3" length="52327444" type="audio/mpeg" />
+<pubDate>Fri, 13 Mar 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/06/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 06, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140306.mp3" length="45330181" type="audio/mpeg" />
+<pubDate>Fri, 06 Mar 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/03/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 03, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140303.mp3" length="52095164" type="audio/mpeg" />
+<pubDate>Tue, 03 Mar 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/27/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 27, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140227.mp3" length="63668453" type="audio/mpeg" />
+<pubDate>Fri, 27 Feb 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/24/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 24, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140224.mp3" length="68556695" type="audio/mpeg" />
+<pubDate>Tue, 24 Feb 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/20/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 20, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140220.mp3" length="59188035" type="audio/mpeg" />
+<pubDate>Fri, 20 Feb 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/10/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 10, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140210.mp3" length="60403356" type="audio/mpeg" />
+<pubDate>Tue, 10 Feb 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/06/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 06, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140206.mp3" length="52338102" type="audio/mpeg" />
+<pubDate>Fri, 06 Feb 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/03/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 03, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140203.mp3" length="59488026" type="audio/mpeg" />
+<pubDate>Tue, 03 Feb 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/30/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 30, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140130.mp3" length="53344026" type="audio/mpeg" />
+<pubDate>Fri, 30 Jan 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/27/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 27, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140127.mp3" length="54528313" type="audio/mpeg" />
+<pubDate>Tue, 27 Jan 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/23/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 23, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140123.mp3" length="50830001" type="audio/mpeg" />
+<pubDate>Fri, 23 Jan 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/20/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 20, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140120.mp3" length="65521371" type="audio/mpeg" />
+<pubDate>Tue, 20 Jan 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/13/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 13, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140113.mp3" length="62797322" type="audio/mpeg" />
+<pubDate>Tue, 13 Jan 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/09/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 09, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20140109.mp3" length="48990249" type="audio/mpeg" />
+<pubDate>Fri, 09 Jan 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/06/2014</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 06, 2014</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20140106.mp3" length="68510929" type="audio/mpeg" />
+<pubDate>Tue, 06 Jan 2014 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/18/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 18, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20131218.mp3" length="73089776" type="audio/mpeg" />
+<pubDate>Fri, 18 Dec 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/16/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 16, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20131216.mp3" length="58946978" type="audio/mpeg" />
+<pubDate>Tue, 16 Dec 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/11/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 11, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20131211.mp3" length="49299017" type="audio/mpeg" />
+<pubDate>Fri, 11 Dec 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/09/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 09, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20131209.mp3" length="75726994" type="audio/mpeg" />
+<pubDate>Tue, 09 Dec 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/21/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 21, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20131121.mp3" length="44175673" type="audio/mpeg" />
+<pubDate>Fri, 21 Nov 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/19/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 19, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20131119.mp3" length="64899761" type="audio/mpeg" />
+<pubDate>Tue, 19 Nov 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/14/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 14, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20131114.mp3" length="53578501" type="audio/mpeg" />
+<pubDate>Fri, 14 Nov 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/12/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 12, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20131112.mp3" length="76852035" type="audio/mpeg" />
+<pubDate>Tue, 12 Nov 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/07/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 07, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20131107.mp3" length="44396982" type="audio/mpeg" />
+<pubDate>Fri, 07 Nov 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/04/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 04, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20131104.mp3" length="69719980" type="audio/mpeg" />
+<pubDate>Tue, 04 Nov 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/31/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 31, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20131031.mp3" length="36961802" type="audio/mpeg" />
+<pubDate>Fri, 31 Oct 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/24/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 24, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20131024.mp3" length="67096555" type="audio/mpeg" />
+<pubDate>Fri, 24 Oct 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/21/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 21, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20131021.mp3" length="42315546" type="audio/mpeg" />
+<pubDate>Tue, 21 Oct 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/16/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 16, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20131016.mp3" length="55974034" type="audio/mpeg" />
+<pubDate>Fri, 16 Oct 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/14/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 14, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20131014.mp3" length="72498259" type="audio/mpeg" />
+<pubDate>Tue, 14 Oct 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/09/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 09, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20131009.mp3" length="62807353" type="audio/mpeg" />
+<pubDate>Fri, 09 Oct 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/07/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 07, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20131007.mp3" length="36069355" type="audio/mpeg" />
+<pubDate>Tue, 07 Oct 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/30/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 30, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130930.mp3" length="113884681" type="audio/mpeg" />
+<pubDate>Tue, 30 Sep 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/26/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 26, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130926.mp3" length="42137495" type="audio/mpeg" />
+<pubDate>Fri, 26 Sep 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/23/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 23, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130923.mp3" length="66766158" type="audio/mpeg" />
+<pubDate>Tue, 23 Sep 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/19/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 19, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130919.mp3" length="63833025" type="audio/mpeg" />
+<pubDate>Fri, 19 Sep 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/16/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 16, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130916.mp3" length="71422746" type="audio/mpeg" />
+<pubDate>Tue, 16 Sep 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/12/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 12, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130912.mp3" length="50517786" type="audio/mpeg" />
+<pubDate>Fri, 12 Sep 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/09/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 09, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130909.mp3" length="73759660" type="audio/mpeg" />
+<pubDate>Tue, 09 Sep 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/05/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 05, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130905.mp3" length="59275180" type="audio/mpeg" />
+<pubDate>Fri, 05 Sep 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/02/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 02, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130902.mp3" length="65864933" type="audio/mpeg" />
+<pubDate>Tue, 02 Sep 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/29/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 29, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130829.mp3" length="44462184" type="audio/mpeg" />
+<pubDate>Fri, 29 Aug 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/26/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 26, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130826.mp3" length="67929129" type="audio/mpeg" />
+<pubDate>Tue, 26 Aug 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/22/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 22, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130822.mp3" length="52630256" type="audio/mpeg" />
+<pubDate>Fri, 22 Aug 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/19/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 19, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130819.mp3" length="74456816" type="audio/mpeg" />
+<pubDate>Tue, 19 Aug 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/15/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 15, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130815.mp3" length="36447399" type="audio/mpeg" />
+<pubDate>Fri, 15 Aug 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/12/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 12, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130812.mp3" length="81369756" type="audio/mpeg" />
+<pubDate>Tue, 12 Aug 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/08/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 08, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130808.mp3" length="99672607" type="audio/mpeg" />
+<pubDate>Fri, 08 Aug 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/05/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 05, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130805.mp3" length="77721600" type="audio/mpeg" />
+<pubDate>Tue, 05 Aug 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/01/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 01, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130801.mp3" length="73069087" type="audio/mpeg" />
+<pubDate>Fri, 01 Aug 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/29/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 29, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130729.mp3" length="68425351" type="audio/mpeg" />
+<pubDate>Tue, 29 Jul 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/25/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 25, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130725.mp3" length="52934321" type="audio/mpeg" />
+<pubDate>Fri, 25 Jul 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/18/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 18, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130718.mp3" length="51291428" type="audio/mpeg" />
+<pubDate>Fri, 18 Jul 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/15/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 15, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130715.mp3" length="69238804" type="audio/mpeg" />
+<pubDate>Tue, 15 Jul 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/11/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 11, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130711.mp3" length="57663947" type="audio/mpeg" />
+<pubDate>Fri, 11 Jul 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/27/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 27, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130627.mp3" length="62919262" type="audio/mpeg" />
+<pubDate>Fri, 27 Jun 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/24/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 24, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130624.mp3" length="92037746" type="audio/mpeg" />
+<pubDate>Tue, 24 Jun 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/20/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 20, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130620.mp3" length="64037093" type="audio/mpeg" />
+<pubDate>Fri, 20 Jun 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/17/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 17, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130617.mp3" length="63014870" type="audio/mpeg" />
+<pubDate>Tue, 17 Jun 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/13/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 13, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130613.mp3" length="78044786" type="audio/mpeg" />
+<pubDate>Fri, 13 Jun 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/10/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 10, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130610.mp3" length="81920209" type="audio/mpeg" />
+<pubDate>Tue, 10 Jun 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/04/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 04, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130604.mp3" length="73751510" type="audio/mpeg" />
+<pubDate>Tue, 04 Jun 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/30/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 30, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130530.mp3" length="42778540" type="audio/mpeg" />
+<pubDate>Fri, 30 May 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/27/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 27, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130527.mp3" length="70591111" type="audio/mpeg" />
+<pubDate>Tue, 27 May 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/23/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 23, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130523.mp3" length="46144888" type="audio/mpeg" />
+<pubDate>Fri, 23 May 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/20/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 20, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130520.mp3" length="74026422" type="audio/mpeg" />
+<pubDate>Tue, 20 May 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/16/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 16, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130516.mp3" length="48788689" type="audio/mpeg" />
+<pubDate>Fri, 16 May 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/13/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 13, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130513.mp3" length="66014772" type="audio/mpeg" />
+<pubDate>Tue, 13 May 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/09/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 09, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130509.mp3" length="47798125" type="audio/mpeg" />
+<pubDate>Fri, 09 May 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/07/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 07, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130507.mp3" length="64319843" type="audio/mpeg" />
+<pubDate>Tue, 07 May 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/30/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 30, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130430.mp3" length="67180564" type="audio/mpeg" />
+<pubDate>Tue, 30 Apr 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/25/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 25, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130425.mp3" length="59163271" type="audio/mpeg" />
+<pubDate>Fri, 25 Apr 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/23/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 23, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130423.mp3" length="67502184" type="audio/mpeg" />
+<pubDate>Tue, 23 Apr 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/18/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 18, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130418.mp3" length="47590922" type="audio/mpeg" />
+<pubDate>Fri, 18 Apr 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/16/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 16, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130416.mp3" length="73696026" type="audio/mpeg" />
+<pubDate>Tue, 16 Apr 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/11/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 11, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130411.mp3" length="38308153" type="audio/mpeg" />
+<pubDate>Fri, 11 Apr 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/08/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 08, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130408.mp3" length="43602613" type="audio/mpeg" />
+<pubDate>Tue, 08 Apr 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/03/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 03, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130403.mp3" length="53694798" type="audio/mpeg" />
+<pubDate>Fri, 03 Apr 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/21/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 21, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130321.mp3" length="45856182" type="audio/mpeg" />
+<pubDate>Fri, 21 Mar 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/18/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 18, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130318.mp3" length="78159830" type="audio/mpeg" />
+<pubDate>Tue, 18 Mar 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/14/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 14, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130314.mp3" length="34479438" type="audio/mpeg" />
+<pubDate>Fri, 14 Mar 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/11/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 11, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130311.mp3" length="67272724" type="audio/mpeg" />
+<pubDate>Tue, 11 Mar 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/07/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 07, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130307.mp3" length="35517962" type="audio/mpeg" />
+<pubDate>Fri, 07 Mar 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/04/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 04, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130304.mp3" length="74124852" type="audio/mpeg" />
+<pubDate>Tue, 04 Mar 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/28/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 28, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130228.mp3" length="60339409" type="audio/mpeg" />
+<pubDate>Fri, 28 Feb 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/25/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 25, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130225.mp3" length="79051337" type="audio/mpeg" />
+<pubDate>Tue, 25 Feb 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/21/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 21, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130221.mp3" length="64030197" type="audio/mpeg" />
+<pubDate>Fri, 21 Feb 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/19/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 19, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130219.mp3" length="73474716" type="audio/mpeg" />
+<pubDate>Tue, 19 Feb 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/14/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 14, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130214.mp3" length="45611990" type="audio/mpeg" />
+<pubDate>Fri, 14 Feb 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/11/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 11, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130211.mp3" length="71707689" type="audio/mpeg" />
+<pubDate>Tue, 11 Feb 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/07/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 07, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130207.mp3" length="35026755" type="audio/mpeg" />
+<pubDate>Fri, 07 Feb 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/04/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 04, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130204.mp3" length="74448352" type="audio/mpeg" />
+<pubDate>Tue, 04 Feb 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/30/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 30, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130130.mp3" length="48082442" type="audio/mpeg" />
+<pubDate>Fri, 30 Jan 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/24/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 24, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130124.mp3" length="52904855" type="audio/mpeg" />
+<pubDate>Fri, 24 Jan 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/17/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 17, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130117.mp3" length="65281880" type="audio/mpeg" />
+<pubDate>Fri, 17 Jan 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/14/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 14, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130114.mp3" length="72967836" type="audio/mpeg" />
+<pubDate>Tue, 14 Jan 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/07/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 07, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20130107.mp3" length="75216666" type="audio/mpeg" />
+<pubDate>Tue, 07 Jan 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/03/2013</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 03, 2013</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20130103.mp3" length="45684401" type="audio/mpeg" />
+<pubDate>Fri, 03 Jan 2013 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/27/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 27, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20121227.mp3" length="73996329" type="audio/mpeg" />
+<pubDate>Fri, 27 Dec 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/24/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 24, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121224.mp3" length="60721528" type="audio/mpeg" />
+<pubDate>Tue, 24 Dec 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/17/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 17, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121217.mp3" length="74045231" type="audio/mpeg" />
+<pubDate>Tue, 17 Dec 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/05/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 05, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20121205.mp3" length="36703817" type="audio/mpeg" />
+<pubDate>Fri, 05 Dec 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/03/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 03, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121203.mp3" length="76433867" type="audio/mpeg" />
+<pubDate>Tue, 03 Dec 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/26/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 26, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121126.mp3" length="76588094" type="audio/mpeg" />
+<pubDate>Tue, 26 Nov 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/19/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 19, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121119.mp3" length="71900473" type="audio/mpeg" />
+<pubDate>Tue, 19 Nov 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/15/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 15, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20121115.mp3" length="79214341" type="audio/mpeg" />
+<pubDate>Fri, 15 Nov 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/12/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 12, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121112.mp3" length="69070785" type="audio/mpeg" />
+<pubDate>Tue, 12 Nov 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/22/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 22, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121022.mp3" length="71199555" type="audio/mpeg" />
+<pubDate>Tue, 22 Oct 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/15/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 15, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121015.mp3" length="49893355" type="audio/mpeg" />
+<pubDate>Tue, 15 Oct 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/10/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 10, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20121010.mp3" length="42318367" type="audio/mpeg" />
+<pubDate>Fri, 10 Oct 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/08/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 08, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121008.mp3" length="71828375" type="audio/mpeg" />
+<pubDate>Tue, 08 Oct 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/04/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 04, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20121004.mp3" length="47415379" type="audio/mpeg" />
+<pubDate>Fri, 04 Oct 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/01/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 01, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20121001.mp3" length="82265652" type="audio/mpeg" />
+<pubDate>Tue, 01 Oct 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/28/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 28, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120928.mp3" length="36397871" type="audio/mpeg" />
+<pubDate>Fri, 28 Sep 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/24/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 24, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120924.mp3" length="72933668" type="audio/mpeg" />
+<pubDate>Tue, 24 Sep 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/21/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 21, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120921.mp3" length="44086961" type="audio/mpeg" />
+<pubDate>Fri, 21 Sep 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/17/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 17, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120917.mp3" length="71365067" type="audio/mpeg" />
+<pubDate>Tue, 17 Sep 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/12/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 12, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120912.mp3" length="45474377" type="audio/mpeg" />
+<pubDate>Fri, 12 Sep 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/10/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 10, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120910.mp3" length="73882540" type="audio/mpeg" />
+<pubDate>Tue, 10 Sep 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/06/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 06, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120906.mp3" length="44105142" type="audio/mpeg" />
+<pubDate>Fri, 06 Sep 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/30/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 30, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120830.mp3" length="44894458" type="audio/mpeg" />
+<pubDate>Fri, 30 Aug 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/27/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 27, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120827.mp3" length="73219552" type="audio/mpeg" />
+<pubDate>Tue, 27 Aug 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/23/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 23, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120823.mp3" length="42325263" type="audio/mpeg" />
+<pubDate>Fri, 23 Aug 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/20/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 20, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120820.mp3" length="73052160" type="audio/mpeg" />
+<pubDate>Tue, 20 Aug 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/16/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 16, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120816.mp3" length="49449482" type="audio/mpeg" />
+<pubDate>Fri, 16 Aug 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/14/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 14, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120814.mp3" length="74274377" type="audio/mpeg" />
+<pubDate>Tue, 14 Aug 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/09/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 09, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120809.mp3" length="50179866" type="audio/mpeg" />
+<pubDate>Fri, 09 Aug 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/06/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 06, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120806.mp3" length="73599791" type="audio/mpeg" />
+<pubDate>Tue, 06 Aug 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/02/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 02, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120802.mp3" length="40094929" type="audio/mpeg" />
+<pubDate>Fri, 02 Aug 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/30/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 30, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120730.mp3" length="72213942" type="audio/mpeg" />
+<pubDate>Tue, 30 Jul 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/26/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 26, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120726.mp3" length="44998530" type="audio/mpeg" />
+<pubDate>Fri, 26 Jul 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/23/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 23, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120723.mp3" length="71841541" type="audio/mpeg" />
+<pubDate>Tue, 23 Jul 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/16/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 16, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120716.mp3" length="72106109" type="audio/mpeg" />
+<pubDate>Tue, 16 Jul 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/12/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 12, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120712.mp3" length="50105573" type="audio/mpeg" />
+<pubDate>Fri, 12 Jul 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/05/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 05, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120705.mp3" length="49070184" type="audio/mpeg" />
+<pubDate>Fri, 05 Jul 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/28/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 28, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120628.mp3" length="39667043" type="audio/mpeg" />
+<pubDate>Fri, 28 Jun 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/25/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 25, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120625.mp3" length="74590981" type="audio/mpeg" />
+<pubDate>Tue, 25 Jun 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/20/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 20, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120620.mp3" length="48486818" type="audio/mpeg" />
+<pubDate>Fri, 20 Jun 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/18/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 18, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120618.mp3" length="74113253" type="audio/mpeg" />
+<pubDate>Tue, 18 Jun 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/13/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 13, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120613.mp3" length="33002370" type="audio/mpeg" />
+<pubDate>Fri, 13 Jun 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/11/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 11, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120611.mp3" length="73364689" type="audio/mpeg" />
+<pubDate>Tue, 11 Jun 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/07/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 07, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120607.mp3" length="47542961" type="audio/mpeg" />
+<pubDate>Fri, 07 Jun 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/04/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 04, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120604.mp3" length="73673456" type="audio/mpeg" />
+<pubDate>Tue, 04 Jun 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/31/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 31, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120531.mp3" length="41606164" type="audio/mpeg" />
+<pubDate>Fri, 31 May 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/24/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 24, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120524.mp3" length="39429746" type="audio/mpeg" />
+<pubDate>Fri, 24 May 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/21/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 21, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120521.mp3" length="73214223" type="audio/mpeg" />
+<pubDate>Tue, 21 May 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/17/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 17, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120517.mp3" length="40576418" type="audio/mpeg" />
+<pubDate>Fri, 17 May 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/14/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 14, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120514.mp3" length="72418011" type="audio/mpeg" />
+<pubDate>Tue, 14 May 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/10/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 10, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120510.mp3" length="40794592" type="audio/mpeg" />
+<pubDate>Fri, 10 May 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/07/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 07, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120507.mp3" length="89223418" type="audio/mpeg" />
+<pubDate>Tue, 07 May 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/03/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 03, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120503.mp3" length="48353906" type="audio/mpeg" />
+<pubDate>Fri, 03 May 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/30/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 30, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120430.mp3" length="73895079" type="audio/mpeg" />
+<pubDate>Tue, 30 Apr 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/26/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 26, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120426.mp3" length="48741355" type="audio/mpeg" />
+<pubDate>Fri, 26 Apr 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/23/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 23, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_minutes_20120423.mp3" length="74985012" type="audio/mpeg" />
+<pubDate>Tue, 23 Apr 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/19/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 19, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120419.mp3" length="45117335" type="audio/mpeg" />
+<pubDate>Fri, 19 Apr 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/16/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 16, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120416.mp3" length="74364656" type="audio/mpeg" />
+<pubDate>Tue, 16 Apr 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/12/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 12, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120412.mp3" length="42393913" type="audio/mpeg" />
+<pubDate>Fri, 12 Apr 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/09/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 09, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120409.mp3" length="71162566" type="audio/mpeg" />
+<pubDate>Tue, 09 Apr 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/05/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 05, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120405.mp3" length="54357786" type="audio/mpeg" />
+<pubDate>Fri, 05 Apr 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/02/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 02, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120402.mp3" length="71618037" type="audio/mpeg" />
+<pubDate>Tue, 02 Apr 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/29/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 29, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120329.mp3" length="53609848" type="audio/mpeg" />
+<pubDate>Fri, 29 Mar 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/26/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 26, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120326.mp3" length="70427794" type="audio/mpeg" />
+<pubDate>Tue, 26 Mar 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/22/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 22, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120322.mp3" length="38099069" type="audio/mpeg" />
+<pubDate>Fri, 22 Mar 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/19/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 19, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120319.mp3" length="59351040" type="audio/mpeg" />
+<pubDate>Tue, 19 Mar 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/15/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 15, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120315.mp3" length="55585332" type="audio/mpeg" />
+<pubDate>Fri, 15 Mar 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/12/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 12, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120312.mp3" length="73347448" type="audio/mpeg" />
+<pubDate>Tue, 12 Mar 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/01/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 01, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120301.mp3" length="39320659" type="audio/mpeg" />
+<pubDate>Fri, 01 Mar 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/27/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 27, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120227.mp3" length="74210429" type="audio/mpeg" />
+<pubDate>Tue, 27 Feb 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/20/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 20, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120220.mp3" length="71932447" type="audio/mpeg" />
+<pubDate>Tue, 20 Feb 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/16/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 16, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120216.mp3" length="39720019" type="audio/mpeg" />
+<pubDate>Fri, 16 Feb 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/13/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 13, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120213.mp3" length="76838556" type="audio/mpeg" />
+<pubDate>Tue, 13 Feb 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/09/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 09, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120209.mp3" length="44371591" type="audio/mpeg" />
+<pubDate>Fri, 09 Feb 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/06/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 06, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120206.mp3" length="81719588" type="audio/mpeg" />
+<pubDate>Tue, 06 Feb 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/02/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 02, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120202.mp3" length="36520124" type="audio/mpeg" />
+<pubDate>Fri, 02 Feb 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/26/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 26, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120126.mp3" length="46136111" type="audio/mpeg" />
+<pubDate>Fri, 26 Jan 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/23/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 23, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120123.mp3" length="74321084" type="audio/mpeg" />
+<pubDate>Tue, 23 Jan 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/19/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 19, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120119.mp3" length="38910014" type="audio/mpeg" />
+<pubDate>Fri, 19 Jan 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/16/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 16, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120116.mp3" length="69879849" type="audio/mpeg" />
+<pubDate>Tue, 16 Jan 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/12/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 12, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120112.mp3" length="37492506" type="audio/mpeg" />
+<pubDate>Fri, 12 Jan 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/10/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 10, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120110.mp3" length="72471928" type="audio/mpeg" />
+<pubDate>Tue, 10 Jan 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/05/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 05, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20120105.mp3" length="43406106" type="audio/mpeg" />
+<pubDate>Fri, 05 Jan 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/02/2012</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 02, 2012</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20120102.mp3" length="74514181" type="audio/mpeg" />
+<pubDate>Tue, 02 Jan 2012 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/29/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 29, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111229.mp3" length="26629851" type="audio/mpeg" />
+<pubDate>Fri, 29 Dec 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/22/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 22, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111222.mp3" length="46519484" type="audio/mpeg" />
+<pubDate>Fri, 22 Dec 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/19/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 19, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111219.mp3" length="75550197" type="audio/mpeg" />
+<pubDate>Tue, 19 Dec 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/12/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 12, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111212.mp3" length="73534275" type="audio/mpeg" />
+<pubDate>Tue, 12 Dec 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/07/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 07, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111207.mp3" length="47719444" type="audio/mpeg" />
+<pubDate>Fri, 07 Dec 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/05/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 05, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111205.mp3" length="73873136" type="audio/mpeg" />
+<pubDate>Tue, 05 Dec 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 12/01/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for December 01, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111201.mp3" length="49162031" type="audio/mpeg" />
+<pubDate>Fri, 01 Dec 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/28/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 28, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111128.mp3" length="72576313" type="audio/mpeg" />
+<pubDate>Tue, 28 Nov 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/21/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 21, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111121.mp3" length="73435533" type="audio/mpeg" />
+<pubDate>Tue, 21 Nov 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/17/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 17, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111117.mp3" length="50580480" type="audio/mpeg" />
+<pubDate>Fri, 17 Nov 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/14/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 14, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111114.mp3" length="74380643" type="audio/mpeg" />
+<pubDate>Tue, 14 Nov 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/10/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 10, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111110.mp3" length="45014517" type="audio/mpeg" />
+<pubDate>Fri, 10 Nov 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/07/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 07, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111107.mp3" length="72509544" type="audio/mpeg" />
+<pubDate>Tue, 07 Nov 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 11/03/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for November 03, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111103.mp3" length="51056326" type="audio/mpeg" />
+<pubDate>Fri, 03 Nov 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/31/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 31, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111031.mp3" length="72759066" type="audio/mpeg" />
+<pubDate>Tue, 31 Oct 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/27/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 27, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111027.mp3" length="49033195" type="audio/mpeg" />
+<pubDate>Fri, 27 Oct 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/24/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 24, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111024.mp3" length="72872542" type="audio/mpeg" />
+<pubDate>Tue, 24 Oct 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/20/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 20, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111020.mp3" length="46625436" type="audio/mpeg" />
+<pubDate>Fri, 20 Oct 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/17/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 17, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111017.mp3" length="74242089" type="audio/mpeg" />
+<pubDate>Tue, 17 Oct 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/13/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 13, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111013.mp3" length="45003232" type="audio/mpeg" />
+<pubDate>Fri, 13 Oct 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/10/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 10, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111010.mp3" length="74249299" type="audio/mpeg" />
+<pubDate>Tue, 10 Oct 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/06/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 06, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20111006.mp3" length="34612035" type="audio/mpeg" />
+<pubDate>Fri, 06 Oct 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 10/03/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for October 03, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20111003.mp3" length="71161312" type="audio/mpeg" />
+<pubDate>Tue, 03 Oct 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/29/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 29, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110929.mp3" length="58966413" type="audio/mpeg" />
+<pubDate>Fri, 29 Sep 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/26/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 26, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110926.mp3" length="67618168" type="audio/mpeg" />
+<pubDate>Tue, 26 Sep 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/22/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 22, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110922.mp3" length="46899409" type="audio/mpeg" />
+<pubDate>Fri, 22 Sep 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/19/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 19, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110919.mp3" length="71175418" type="audio/mpeg" />
+<pubDate>Tue, 19 Sep 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/15/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 15, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110915.mp3" length="44833645" type="audio/mpeg" />
+<pubDate>Fri, 15 Sep 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/12/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 12, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110912.mp3" length="72045609" type="audio/mpeg" />
+<pubDate>Tue, 12 Sep 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/08/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 08, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110908.mp3" length="69535033" type="audio/mpeg" />
+<pubDate>Fri, 08 Sep 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 09/01/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for September 01, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110901.mp3" length="47859879" type="audio/mpeg" />
+<pubDate>Fri, 01 Sep 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/29/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 29, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110829.mp3" length="74414184" type="audio/mpeg" />
+<pubDate>Tue, 29 Aug 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/22/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 22, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110822.mp3" length="75565244" type="audio/mpeg" />
+<pubDate>Tue, 22 Aug 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/11/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 11, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110811.mp3" length="43813929" type="audio/mpeg" />
+<pubDate>Fri, 11 Aug 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/08/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 08, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110808.mp3" length="42735908" type="audio/mpeg" />
+<pubDate>Tue, 08 Aug 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/04/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 04, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110804.mp3" length="40639111" type="audio/mpeg" />
+<pubDate>Fri, 04 Aug 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 08/01/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for August 01, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110801.mp3" length="77584300" type="audio/mpeg" />
+<pubDate>Tue, 01 Aug 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/25/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 25, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110725.mp3" length="72817371" type="audio/mpeg" />
+<pubDate>Tue, 25 Jul 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/18/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 18, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110718.mp3" length="71830256" type="audio/mpeg" />
+<pubDate>Tue, 18 Jul 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/14/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 14, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110714.mp3" length="38953900" type="audio/mpeg" />
+<pubDate>Fri, 14 Jul 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/11/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 11, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110711.mp3" length="72039653" type="audio/mpeg" />
+<pubDate>Tue, 11 Jul 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/07/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 07, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110707.mp3" length="35413577" type="audio/mpeg" />
+<pubDate>Fri, 07 Jul 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 07/04/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for July 04, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110704.mp3" length="78787082" type="audio/mpeg" />
+<pubDate>Tue, 04 Jul 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/30/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 30, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110630.mp3" length="44644937" type="audio/mpeg" />
+<pubDate>Fri, 30 Jun 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/27/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 27, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110627.mp3" length="74856803" type="audio/mpeg" />
+<pubDate>Tue, 27 Jun 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/23/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 23, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110623.mp3" length="37135778" type="audio/mpeg" />
+<pubDate>Fri, 23 Jun 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/20/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 20, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110620.mp3" length="75031092" type="audio/mpeg" />
+<pubDate>Tue, 20 Jun 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/13/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 13, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110613.mp3" length="74754298" type="audio/mpeg" />
+<pubDate>Tue, 13 Jun 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/09/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 09, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110609.mp3" length="45364349" type="audio/mpeg" />
+<pubDate>Fri, 09 Jun 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/06/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 06, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110606.mp3" length="72806713" type="audio/mpeg" />
+<pubDate>Tue, 06 Jun 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 06/02/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for June 02, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110602.mp3" length="38239190" type="audio/mpeg" />
+<pubDate>Fri, 02 Jun 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/30/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 30, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110530.mp3" length="70551928" type="audio/mpeg" />
+<pubDate>Tue, 30 May 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/26/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 26, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110526.mp3" length="47062413" type="audio/mpeg" />
+<pubDate>Fri, 26 May 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/23/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 23, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110523.mp3" length="74753358" type="audio/mpeg" />
+<pubDate>Tue, 23 May 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/19/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 19, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110519.mp3" length="46071536" type="audio/mpeg" />
+<pubDate>Fri, 19 May 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/16/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 16, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110516.mp3" length="66878693" type="audio/mpeg" />
+<pubDate>Tue, 16 May 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/12/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 12, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110512.mp3" length="34468780" type="audio/mpeg" />
+<pubDate>Fri, 12 May 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/09/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 09, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110509.mp3" length="75016986" type="audio/mpeg" />
+<pubDate>Tue, 09 May 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/05/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 05, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110505.mp3" length="36127973" type="audio/mpeg" />
+<pubDate>Fri, 05 May 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 05/02/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for May 02, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110502.mp3" length="73940532" type="audio/mpeg" />
+<pubDate>Tue, 02 May 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/28/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 28, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110428.mp3" length="38799673" type="audio/mpeg" />
+<pubDate>Fri, 28 Apr 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/25/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 25, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110425.mp3" length="74716682" type="audio/mpeg" />
+<pubDate>Tue, 25 Apr 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/21/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 21, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110421.mp3" length="38157061" type="audio/mpeg" />
+<pubDate>Fri, 21 Apr 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/18/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 18, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110418.mp3" length="75926674" type="audio/mpeg" />
+<pubDate>Tue, 18 Apr 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/14/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 14, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110414.mp3" length="34863124" type="audio/mpeg" />
+<pubDate>Fri, 14 Apr 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/11/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 11, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110411.mp3" length="75091278" type="audio/mpeg" />
+<pubDate>Tue, 11 Apr 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/07/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 07, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110407.mp3" length="32910210" type="audio/mpeg" />
+<pubDate>Fri, 07 Apr 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 04/04/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for April 04, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110404.mp3" length="76160209" type="audio/mpeg" />
+<pubDate>Tue, 04 Apr 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/31/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 31, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110331.mp3" length="76335751" type="audio/mpeg" />
+<pubDate>Fri, 31 Mar 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/29/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 29, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110329.mp3" length="69834710" type="audio/mpeg" />
+<pubDate>Tue, 29 Mar 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/24/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 24, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110324.mp3" length="81097038" type="audio/mpeg" />
+<pubDate>Fri, 24 Mar 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/21/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 21, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110321.mp3" length="75105384" type="audio/mpeg" />
+<pubDate>Tue, 21 Mar 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/17/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 17, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110317.mp3" length="80226847" type="audio/mpeg" />
+<pubDate>Fri, 17 Mar 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/14/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 14, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110314.mp3" length="77516277" type="audio/mpeg" />
+<pubDate>Tue, 14 Mar 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/10/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 10, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110310.mp3" length="71264130" type="audio/mpeg" />
+<pubDate>Fri, 10 Mar 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/07/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 07, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110307.mp3" length="73397603" type="audio/mpeg" />
+<pubDate>Tue, 07 Mar 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 03/03/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for March 03, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110303.mp3" length="88287085" type="audio/mpeg" />
+<pubDate>Fri, 03 Mar 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/28/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 28, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110228.mp3" length="73187578" type="audio/mpeg" />
+<pubDate>Tue, 28 Feb 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/24/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 24, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110224.mp3" length="92797910" type="audio/mpeg" />
+<pubDate>Fri, 24 Feb 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/14/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 14, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110214.mp3" length="73424248" type="audio/mpeg" />
+<pubDate>Tue, 14 Feb 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/10/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 10, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110210.mp3" length="83143366" type="audio/mpeg" />
+<pubDate>Fri, 10 Feb 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/07/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 07, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110207.mp3" length="73568444" type="audio/mpeg" />
+<pubDate>Tue, 07 Feb 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 02/03/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for February 03, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110203.mp3" length="83514827" type="audio/mpeg" />
+<pubDate>Fri, 03 Feb 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/31/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 31, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110131.mp3" length="70787657" type="audio/mpeg" />
+<pubDate>Tue, 31 Jan 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/27/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 27, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110127.mp3" length="80717113" type="audio/mpeg" />
+<pubDate>Fri, 27 Jan 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/24/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 24, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110124.mp3" length="70909283" type="audio/mpeg" />
+<pubDate>Tue, 24 Jan 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/20/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 20, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110120.mp3" length="77291520" type="audio/mpeg" />
+<pubDate>Fri, 20 Jan 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/17/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 17, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110117.mp3" length="58980519" type="audio/mpeg" />
+<pubDate>Tue, 17 Jan 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/13/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 13, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110113.mp3" length="78304966" type="audio/mpeg" />
+<pubDate>Fri, 13 Jan 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/10/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 10, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110110.mp3" length="71629635" type="audio/mpeg" />
+<pubDate>Tue, 10 Jan 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/06/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 06, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/The_Jick_Show_20110106.mp3" length="79830622" type="audio/mpeg" />
+<pubDate>Fri, 06 Jan 2011 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KoL Podcast 01/03/2011</title><itunes:author>Asymmetric Publications, LLC</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://images.asymmetric.net/kol_podcast_logo.png" />
+<itunes:summary>KoL Podcast for January 03, 2011</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/shows.kingdomofloathing.com/120_Minutes_20110103.mp3" length="73960594" type="audio/mpeg" />
+<pubDate>Tue, 03 Jan 2011 08:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
