@@ -51,7 +51,22 @@ module Tabcast
 		string = ""
 		string += @prefix.render(vars) 
 			@feed.items.each do |i|
-				unless ( @killlist.include? i.enclosure.url ) or ( @guidkilllist.include? i.guid.to_s )
+				if i.enclosure && i.enclosure.url
+					if @killlist.include? i.enclosure.url
+						killed = true
+					end
+				else
+					killed = true
+				end
+				
+				if i.guid
+					if @guidkilllist.include? i.guid.to_s
+						killed = true
+					end
+				end
+				#killed = true if i.guid && (@guidkilllist.include? i.guid.to_s)
+					
+				unless killed
 					if i.pubDate
 						vars['utime'] = i.pubDate.strftime('%s') 
 					else
@@ -81,7 +96,7 @@ module Tabcast
 					else
 						vars['guid'] = nil
 					end
-				
+			
 					string += @template.render(vars)
 				end
 			end
